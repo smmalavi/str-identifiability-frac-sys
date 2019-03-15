@@ -36,9 +36,9 @@ H(z,theta)=---------------------------------------------------------------------
   For global identifiability, there must be only one solution 
 
 ## Code written by: 
- - Tohid Soleymani Aghdam (Shahid Beheshti University, tehran, Iran)
- - Seyed Mohammad Mahdi Alavi (Shahid Beheshti University, tehran, Iran)
- - Mehrdad Saif (University of Windsor, Canada)
+ - Tohid Soleymani Aghdam (Shahid Beheshti University, Tehran, Iran)
+ - Seyed Mohammad Mahdi Alavi (Shahid Beheshti University, Tehran, Iran)
+ - Mehrdad Saif (University of Windsor, windsor, ON, Canada)
  
 ## Dates
  - March 15, 2019: First version publihsed on github.
