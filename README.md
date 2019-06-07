@@ -1,4 +1,6 @@
-# Matlab Code for the test of "structural identifiability of fractional-order impedance spectroscopy models with two constant phase elements and Grunwald-Letnikov  approximation"
+# Matlab Code for the test of "structural identifiability of fractional-order impedance spectroscopy models with two constant phase elements and Grunwald-Letnikov approximation"
+
+## T Soleymani-Aghdam, SMM Alavi, M Saif
 
                                     R1
                               |---/\/\/\----|
