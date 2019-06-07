@@ -46,3 +46,7 @@ H(z,theta)=---------------------------------------------------------------------
  
 ## Dates
  - March 15, 2019: First version publihsed on github.
+ 
+Feel free tp contact me for any question you have.
+
+Mahdi Alavi
