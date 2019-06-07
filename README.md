@@ -1,6 +1,8 @@
 # Matlab Code for the test of "structural identifiability of fractional-order impedance spectroscopy models with two constant phase elements and Grunwald-Letnikov approximation"
 
-## T Soleymani-Aghdam, SMM Alavi, M Saif
+## T Soleymani-Aghdam+, SMM Alavi+, M Saif++
+## + Shahid Beheshti University, Theran, Iran
+## ++ University of Windsor, Windsor, ON, Canada
 
                                     R1
                               |---/\/\/\----|
